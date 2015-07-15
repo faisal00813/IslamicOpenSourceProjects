@@ -1,6 +1,8 @@
 #بسم الله الرّحمٰن الرّحيم
 ## Islamic Open Source Projects
 
+##[Android Quran](https://github.com/quran/quran_android)
+>Beautiful Android Quran 
 
 ##[PrayTime](https://github.com/abodehq/Pray-Times)
 >Pray Timesis an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
