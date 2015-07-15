@@ -8,7 +8,7 @@
 
 [Website](http://praytimes.org/)
 
-##[ITL - Islamic Tools and Library](https://github.com/arabeyes-org/ITL)
+##[ITL - Islamic Tools and Libraries](https://github.com/arabeyes-org/ITL)
 >The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations.
 >Provides libraries to calculate salat times, Qibla calcualtion and Hijri dates.
 >It was originally written in C but is ported to JAVA, PHP and Objective-C.
