@@ -3,10 +3,17 @@
 
 ## Quran
 -  https://everyayah.com
+-  Images
+   - https://github.com/quran/quran.com-images
 -  APIs 
     - https://github.com/gadingnst/quran-api
     - https://github.com/islamic-network/alquran.cloud
-
+    - REST
+       - https://quran.api-docs.io/qdc/getting-started/introduction
+    - Graphql
+       - https://api.quran.com/graphql-playground
+- DB
+    - https://tanzil.net/docs/resources
 ## [Android Quran](https://github.com/quran/quran_android)
 >Beautiful Android Quran 
 
