@@ -17,6 +17,13 @@
 ## [Android Quran](https://github.com/quran/quran_android)
 >Beautiful Android Quran 
 
+## [Quran Audios api](https://github.com/quran/audio.quran.com)
+>QuranAudio.com 
+
+## [Tanzil Project API](https://tanzil.net/docs/who_is_using_tanzil)
+>Tanzil Projects
+
+
 ## [PrayTime](https://github.com/abodehq/Pray-Times)
 >PrayTime is an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
 >The library is avaliable in **C#, JAVA, Python, Javascript, PHP, C++ and Objective-C**.
