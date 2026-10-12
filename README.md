@@ -1,33 +1,20 @@
 # بسم الله الرّحمٰن الرّحيم
-## Islamic Open Source Projects
 
-## Quran
--  https://everyayah.com
--  Images
-   - https://github.com/quran/quran.com-images
--  APIs 
-    - https://github.com/gadingnst/quran-api
-    - https://github.com/islamic-network/alquran.cloud
-    - REST
-       - https://quran.api-docs.io/qdc/getting-started/introduction
-    - Graphql
-       - https://api.quran.com/graphql-playground
-- DB
-    - https://tanzil.net/docs/resources
-## [Android Quran](https://github.com/quran/quran_android)
->Beautiful Android Quran 
+## 📚 Islamic Open Source Projects
 
-## [PrayTime](https://github.com/abodehq/Pray-Times)
->PrayTime is an Islamic project aimed at providing an open-source library for calculating Muslim prayers times.
->The library is avaliable in **C#, JAVA, Python, Javascript, PHP, C++ and Objective-C**.
+### 📖 Quran Resources & Tools
+* **[EveryAyah](https://everyayah.com)**: Comprehensive repository for Quran audio files and recitations.
+* **[Quran.com Images](https://github.com)**: Generator for Quran page images using King Fahd Complex fonts.
+* **[Gadingnst Quran API](https://github.com/gadingnst/quran-api)**: Simple Quran API & Database featuring Indonesian Tafsir and audio.
+* **[Alquran.cloud API](https://github.com)**: Highly reliable and widely used Islamic Network API for Quranic data.
+* **[Quran.com REST API](https://api-docs.io)**: Official REST API documentation for Quran.com web services.
+* **[Quran.com GraphQL](https://quran.com)**: GraphQL playground ecosystem for querying structured Quran data.
+* **[Tanzil Resources](https://tanzil.net)**: Official metadata, translations, and verified text databases from Tanzil project.
 
-[Website](http://praytimes.org/)
+### 📱 Mobile & Web Applications
+* **[AlMosaly Open Source](https://github.com/abdo-q/almosaly-open-source)**: Comprehensive privacy-first Islamic web app (PWA) and Android APK reconstruction. Features prayer times, Quran, azkar, and qibla finder.
+* **[Quran for Android](https://github.com/quran/quran_android)**: Beautiful, open-source, and ad-free Quran reading application for Android devices.
 
-## [ITL - Islamic Tools and Libraries](https://github.com/arabeyes-org/ITL)
->The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations.
->Provides libraries to calculate salat times, Qibla calcualation and Hijri dates.
-
->It was originally written in **C** but is ported to **JAVA, PHP and Objective-C**.
-
-
-
+### 🕋 Prayer Times & Islamic Calculations
+* **[PrayTime Library](https://github.com/abodehq/Pray-Times)**: An open-source mathematical library for calculating Muslim prayer times. Available in `C#`, `Java`, `Python`, `JavaScript`, `PHP`, `C++`, and `Objective-C`. [Website](http://praytimes.org/)
+* **[ITL (Islamic Tools and Libraries)](https://github.com/arabeyes-org/ITL)**: Feature-rich heritage library by Arabeyes for calculating precise prayer schedules, Qibla coordinates, and Hijri dates. Originally written in `C` and ported to `Java`, `PHP`, and `Objective-C`.
