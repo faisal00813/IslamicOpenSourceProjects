@@ -31,3 +31,9 @@
 
 
 
+
+## [AlMosaly Open Source](https://github.com/esraamohan78-source/almosaly-open-source)
+
+> Arabic RTL privacy-first PWA and Android APK reconstruction for prayer times, Quran, azkar, qibla, and Hijri calendar.
+>
+> [Web app](https://esraamohan78-source.github.io/almosaly-open-source/) · [Open APK releases](https://github.com/esraamohan78-source/almosaly-open-source/releases/latest)
